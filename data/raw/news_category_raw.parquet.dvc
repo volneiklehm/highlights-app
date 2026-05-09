@@ -1,0 +1,5 @@
+outs:
+- md5: 9049612387fc6bfe45938a56e68ca737
+  size: 2505040
+  hash: md5
+  path: news_category_raw.parquet
