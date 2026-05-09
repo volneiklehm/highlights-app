@@ -85,7 +85,7 @@ dvc push
 git push origin dvc
 ```
 
-### Cenário 3: Você clonó repo e precisa trabalhar com dados existentes
+### Cenário 3: Você clonou repo e precisa trabalhar com dados existentes
 
 ```bash
 # Após clonar e estar no branch dvc
